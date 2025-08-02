@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         JSON to SRT Converter (Góc trái đẹp)
-// @namespace    https://chat.openai.com/
+// @namespace    https://github.com/nengoz195
 // @version      1.2
 // @description  Chuyển JSON phụ đề sang SRT - Giao diện thân thiện, hiển thị ở góc trái màn hình.
-// @author       You
+// @author       Hanh
 // @match        *://*/*
 // @grant        GM_download
 // @run-at       document-idle
