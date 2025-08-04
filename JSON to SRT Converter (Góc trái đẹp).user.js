@@ -3,7 +3,7 @@
 // @namespace    https://chat.openai.com/
 // @version      1.2
 // @description  Chuyển JSON phụ đề sang SRT - Giao diện thân thiện, hiển thị ở góc trái màn hình.
-// @author       You
+// @author       Thien Truong Dia Cuu
 // @match        *://*/*
 // @grant        GM_download
 // @run-at       document-idle
